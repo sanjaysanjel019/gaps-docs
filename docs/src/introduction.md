@@ -32,8 +32,8 @@ Currently, with the application release version of 1.0.0 , all the features of t
 
 - Admission
     - To create a successful Admission, we should create two things first.
-        - [Student Group](/studentgroup) 
-        - [Proficiency Test](/proficiency) 
+        - [Student Group](/src/studentgroup) 
+        - [Proficiency Test](/src/proficiency) 
 
 
 ::: warning
